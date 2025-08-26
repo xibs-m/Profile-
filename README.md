@@ -81,23 +81,23 @@
   
   <!-- GitHub Stats Cards -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" height="180">
+    <img src="https://github-readme-stats.vercel.app/api?username=xibsx&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xibsx&layout=compact&theme=radical" alt="Top Languages" height="180">
   </p>
   
   <!-- GitHub Streak Stats -->
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" height="180">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xibsx&theme=radical" alt="GitHub Streak" height="180">
   </p>
   
   <!-- GitHub Trophy -->
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%">
+    <img src="https://github-profile-trophy.vercel.app/?username=xibsx&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%">
   </p>
   
   <!-- Activity Graph -->
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xibsx &theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" width="100%">
   </p>
   
   <!-- Animated divider -->
