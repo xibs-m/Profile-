@@ -90,6 +90,17 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=xibsx&theme=radical" alt="GitHub Streak" height="180">
   </p>
   
+
+<h2 align="center">🐍 Snake Contribution Animation</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adulalhy/adulalhy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xibsx/xibsx/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/adulalhy/adulalhy/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
   <!-- GitHub Trophy -->
   <p>
     <img src="https://github-profile-trophy.vercel.app/?username=xibsx&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%">
