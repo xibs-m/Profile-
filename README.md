@@ -1,4 +1,6 @@
 # Profile-
+![github-snake-dark](https://raw.githubusercontent.com/xibsx/xibsx/output/github-snake-dark.svg)
+
 🎴
 <!-- Animated GitHub Profile README -->
 <div align="center">
